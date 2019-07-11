@@ -1,3 +1,4 @@
+
 # vfastronauts
 
 Your personalized, hands-on guide to learning Git and GitHub.
@@ -17,7 +18,7 @@ Before your first day at Astronomer, you'll be ahead if you can do the following
 3. Create a branch (aka a copy of those same files)
 4. Make a change to a file on your own branch (and save it, but without affecting the original file in the "master" branch)
 5. [Submit a "Pull Request"](https://help.github.com/en/articles/about-pull-requests) - aka push up that change for review by someone else
-6. ["Merge" that change to "master"](aka publish it and port those changes back up to the original file)
+6. "Merge" that change to "master" (aka publish it and port those changes back up to the original file)
 
 ## What you need
 
