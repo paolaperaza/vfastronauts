@@ -23,12 +23,13 @@ Before your first day at Astronomer, you'll be ahead if you can do the following
 ## What you need
 
 1. Your Terminal (this is an "app" that comes by default on your computer - look it up in Spotlight)
-2. A Code Editor. Pick one of the two:
+2. Git ([install it here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
+3. A Code Editor. Pick one of the two:
    - [Atom](https://atom.io/)
    - [VSCode](https://code.visualstudio.com/)
-3. A GitHub Account
+4. A GitHub Account
    - [Create an account](https://github.com/join?source=header-home) (use your Astro email address)
-4. Doritos with lime (*optional*)
+5. Doritos with lime (*optional*)
 
 ## Where to start
 
